@@ -32,7 +32,7 @@ services:
     ports:
       - "3000:3000"
     networks:
-      - tig
+      - tig-net
     deploy:
       restart_policy:
         condition: on-failure
