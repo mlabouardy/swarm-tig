@@ -1,2 +1,3 @@
-# swarm-tig
-Monitor Swarm cluster with Telegraf, InfluxDB &amp; Grafana 📊
+# How to use
+
+* [Exploring Swarm & Container Overview Dashboard in Grafana](http://www.blog.labouardy.com/swarm-cluster-monitoring-grafana/)
