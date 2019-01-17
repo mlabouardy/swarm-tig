@@ -42,7 +42,7 @@ services:
 
 configs:
   telegraf-config:
-    file: $PWD/conf/telegraf/telegraf.conf
+    file: ./conf/telegraf/telegraf.conf
 
 networks:
   tig-net:
